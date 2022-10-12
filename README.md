@@ -1,9 +1,9 @@
   ### Seja bem vindo(a) ao meu perfil!
 
 <div>
-   <a href="https://github.com/MrDandeveloper">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrDandeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDandeveloper&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/otaldanielpereira>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaldanielpereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaldanielpereira&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
